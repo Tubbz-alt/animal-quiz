@@ -85,7 +85,7 @@ I knew it! Play again?
 ## Manuals
 
 * [Yadda](https://github.com/acuminous/yadda), the bdd tests framework
-* [Mocha](http://visionmedia.github.io/mocha/), the test runner
+* [Mocha](http://mochajs.org/), the test runner
 * [Chai](http://chaijs.com/api/bdd/), the assertion library
 
 ## Useful materials
